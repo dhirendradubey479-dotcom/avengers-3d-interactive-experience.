@@ -1,0 +1,6 @@
+{
+  "name": "Avengers 3D Interactive Experience",
+  "description": "Tactical 3D interactive operative showcase, 7-bar power telemetry analysis, cinematic switching pipeline, and 9-node Avengers Assemble team synchronization matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
